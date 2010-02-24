@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>DS0201/Debug_FLASH</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>340</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <TerminalIO/><Disassembly><MixedMode>1</MixedMode><CodeCovEnabled>0</CodeCovEnabled><CodeCovShow>0</CodeCovShow></Disassembly><Debug-Log/></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23494-19395</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-32387-19943</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-15842-22013</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>DS0201</ExpandedNode><ExpandedNode>DS0201/Application</ExpandedNode><ExpandedNode>DS0201/Application files</ExpandedNode><ExpandedNode>DS0201/FWlib</ExpandedNode><ExpandedNode>DS0201/Output</ExpandedNode><ExpandedNode>DS0201/STlib</ExpandedNode><ExpandedNode>DS0201/USBLib</ExpandedNode><ExpandedNode>DS0201/USBlib</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>E:\My File\other\DSO\DS0201_OpenSource\DS0201_APP\source\main.c</Filename><XPos>0</XPos><YPos>46</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\My File\other\DSO\DS0201_OpenSource\DS0201_APP\source\Lcd.c</Filename><XPos>0</XPos><YPos>85</YPos><SelStart>7372</SelStart><SelEnd>7372</SelEnd></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01792b28><key>iaridepm.enu1</key></Toolbar-01792b28></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>736</Bottom><Right>435</Right><x>-2</x><y>-2</y><xscreen>304</xscreen><yscreen>276</yscreen><sizeHorzCX>158333</sizeHorzCX><sizeHorzCY>281633</sizeHorzCY><sizeVertCX>227604</sizeVertCX><sizeVertCY>753061</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>196</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>198</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>202041</sizeHorzCY><sizeVertCX>103125</sizeVertCX><sizeVertCY>271429</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
